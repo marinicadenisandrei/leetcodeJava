@@ -13,7 +13,7 @@ public class consecutive_numbers_180 {
         System.out.println(green("Passed"));
     }
 
-    public static ArrayList consecutiveNumbers(int[] numVar) {
+    public static ArrayList<Integer> consecutiveNumbers(int[] numVar) {
         ArrayList<Integer> result = new ArrayList<Integer>();
         ArrayList<Integer> noDuplicates = new ArrayList<Integer>();
 

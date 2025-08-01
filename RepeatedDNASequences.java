@@ -13,7 +13,7 @@ public class RepeatedDNASequences {
         }
     }
 
-    public static List<String> findRepeatedDnaSequences(String s) {
+    public static ArrayList<String> findRepeatedDnaSequences(String s) {
         Set<String> seen = new HashSet<>();
         Set<String> duplicates = new HashSet<>();
         
