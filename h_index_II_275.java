@@ -1,7 +1,5 @@
 /* Leetcode - 275. H-Index II (Java language) - Medium */
 
-import java.util.Arrays;
-
 public class h_index_II_275 {
     public static void main(String[] args) {
         System.out.println(yellow("Leetcode - 275. H-Index II (Java language) - Medium"));
